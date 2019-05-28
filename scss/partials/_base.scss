@@ -1,0 +1,17 @@
+//base style 
+body {
+    background-color: $green;
+}
+
+header {
+    background-color: $brown;
+    nav {
+        text-align: center;
+        li {
+            list-style-type: none;
+        }
+        a {
+            text-decoration: none;
+        }
+    }
+}
